@@ -24,7 +24,8 @@ This repository contains my **day-wise progress, Java programs, notes, and pract
 
 | Day | Topic                  | Status          | Links                    |
 | :-- | :--------------------- | :-------------- | :----------------------- |
-| 01  | Introduction to Java   | ✅ Done| [View Folder](./Day-01/) |
+| 01  | Introduction to Java   | ✅ Done| [View Folder](./Day-01
+/HelloWorld.java) |
 
 > 📌 The tracker will be updated regularly as I progress through the series.
 
