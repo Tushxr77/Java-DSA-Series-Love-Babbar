@@ -3,7 +3,7 @@ public class Nested_While_Loop {
     public static void main(String[] args) {
 
         // Outer loop → controls rows
-        int i = 1;
+        int i = 1; 
 
         while (i <= 5) {
 
