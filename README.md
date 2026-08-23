@@ -26,6 +26,7 @@ This repository contains my **day-wise progress, Java programs, notes, and pract
 | :-- | :--------------------- | :-------------- | :----------------------- |
 | 01  | Introduction to Java   | ✅ Done|  [View Code](./Day-01/HelloWorld.java) |
 | 02 | Variables & Data Types | ✅ Done | [View Code](./Day-02/DataType.java) |
+| 03 | Conditionals in Java | ✅ Done | [View Code](./Day-03/CONDITIONALS.java) |
 > 📌 The tracker will be updated regularly as I progress through the series.
 
 ---
@@ -36,21 +37,20 @@ This repository contains my **day-wise progress, Java programs, notes, and pract
 Java-DSA-Series-Love-Babbar/
 │
 ├── Day-01/
-│   ├── HelloWorld.java
-│   ├── BasicProgram.java
-│   └── Notes.md
+│   └── HelloWorld.java
 │
 ├── Day-02/
-│   ├── Variables.java
-│   ├── DataTypes.java
-│   └── Notes.md
+│   └── DataType.java
 │
 ├── Day-03/
-│   └── ...
+│   └── CONDITIONALS.java
+│
+
 │
 ├── Day-04/
 │   └── ...
 │
+├── .gitignore
 └── README.md
 ```
 
