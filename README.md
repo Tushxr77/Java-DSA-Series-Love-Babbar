@@ -95,12 +95,12 @@ Repeat 🔁
 
 ### ☕ Java
 
-* [ ] Java Fundamentals
-* [ ] Variables & Data Types
-* [ ] Input / Output
-* [ ] Operators
-* [ ] Conditional Statements
-* [ ] Loops
+* [x] Java Fundamentals
+* [x] Variables & Data Types
+* [x] Input / Output
+* [x] Operators
+* [x] Conditional Statements
+* [x] Loops
 * [ ] Functions
 * [ ] Arrays
 * [ ] Strings
