@@ -27,6 +27,7 @@ This repository contains my **day-wise progress, Java programs, notes, and pract
 | 01  | Introduction to Java   | ✅ Done|  [View Code](./Day-01/HelloWorld.java) |
 | 02 | Variables & Data Types | ✅ Done | [View Code](./Day-02/DataType.java) |
 | 03 | Conditionals in Java | ✅ Done | [View Code](./Day-03/CONDITIONALS.java) |
+| 04 | Loops in Java | ✅ Done | [View Code](./Day-04/Loops/) |
 > 📌 The tracker will be updated regularly as I progress through the series.
 
 ---
