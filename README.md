@@ -28,6 +28,7 @@ This repository contains my **day-wise progress, Java programs, notes, and pract
 | 02 | Variables & Data Types | ✅ Done | [View Code](./Day-02/DataType.java) |
 | 03 | Conditionals in Java | ✅ Done | [View Code](./Day-03/CONDITIONALS.java) |
 | 04 | Loops in Java | ✅ Done | [View Code](./Day-04/Loops/) |
+| 05 | Methods in Java | ✅ Done | [View Code](./Day-05/Methods.java) |
 > 📌 The tracker will be updated regularly as I progress through the series.
 
 ---
@@ -101,7 +102,7 @@ Repeat 🔁
 * [x] Operators
 * [x] Conditional Statements
 * [x] Loops
-* [ ] Functions
+* [x] Functions
 * [ ] Arrays
 * [ ] Strings
 * [ ] OOP
