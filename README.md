@@ -102,6 +102,7 @@ Repeat 🔁
 * [x] Operators
 * [x] Conditional Statements
 * [x] Loops
+* [ ] Pattern
 * [x] Functions
 * [ ] Arrays
 * [ ] Strings
