@@ -12,7 +12,7 @@ public class Methods {
         int sum = x + y;
         System.out.println(sum);
     }
-
+    //Calling Methods
     public static void main(String[] args) {
 
         System.out.println("Table of 2:");
