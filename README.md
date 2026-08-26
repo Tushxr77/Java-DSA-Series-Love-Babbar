@@ -29,6 +29,7 @@ This repository contains my **day-wise progress, Java programs, notes, and pract
 | 03 | Conditionals in Java | ✅ Done | [View Code](./Day-03/CONDITIONALS.java) |
 | 04 | Loops in Java | ✅ Done | [View Code](./Day-04/Loops/) |
 | 05 | Methods in Java | ✅ Done | [View Code](./Day-05/Methods.java) |
+| 06  | Arrays & 2D Arrays     | ✅ Done    | [View Code](./Day-06/) |
 > 📌 The tracker will be updated regularly as I progress through the series.
 
 ---
