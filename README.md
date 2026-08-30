@@ -107,7 +107,7 @@ Repeat 🔁
 * [ ] Pattern
 * [x] Functions
 * [x] Arrays
-* [x]Strings
+* [x] Strings
 * [ ] OOP
 * [ ] Exception Handling
 * [ ] Collections
