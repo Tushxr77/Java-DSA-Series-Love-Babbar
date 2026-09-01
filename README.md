@@ -32,6 +32,7 @@ This repository contains my **day-wise progress, Java programs, notes, and pract
 | 06  | Arrays & 2D Arrays     | ✅ Done    | [View Code](./Day-06/) |
 | 07  | Strings in Java        | ✅ Done    | [View Code](./Day-07/) |
 | 08  | Basic Maths in Java    | ✅ Done          | [View Code](./Day-08/BasicMaths.java) |
+| 09  | OOPs in Java           | 🚧 In Progress | [View Code](./Day-09/) |
 > 📌 The tracker will be updated regularly as I progress through the series.
 
 ---
