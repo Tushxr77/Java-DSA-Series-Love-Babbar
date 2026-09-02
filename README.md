@@ -33,7 +33,8 @@ This repository contains my **day-wise progress, Java programs, notes, and pract
 | 07  | Strings in Java        | ✅ Done    | [View Code](./Day-07/) |
 | 08  | Basic Maths in Java    | ✅ Done          | [View Code](./Day-08/BasicMaths.java) |
 | 09  | OOPs in Java (Theory And Basic)          | ✅ Done    | [View Code](./Day-09/) |
-| 10  | Classes & Objects in Java 🚧 In Progress | [View Code](./Day-10/) |
+| 10  | Classes & Objects in Java |✅ Done  | [View Code](./Day-10/) |
+| 11  | Polymorphism in Java | 🚧 In Progress | [View Code](./Day-11/) |
 
 > 📌 The tracker will be updated regularly as I progress through the series.
 
