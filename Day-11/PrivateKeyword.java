@@ -1,7 +1,7 @@
 package OOPS;
 class Student {
     String name;
-    private int id;
+    private int id; 
     double cgpa;
     public void print(){
         System.out.println(name+" "+id+" "+cgpa);
