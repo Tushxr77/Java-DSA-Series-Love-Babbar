@@ -22,8 +22,11 @@ public class ComplexNumberClass {
             y+=c2.y;
         }
         public void multiply(ComplexNumber c2){
-            x= x*c2.x;
-            y= y*c2.y;
+            int real = x*c2.x - y*c2.y;
+            int imaginary = x*c2.y + y*c2.x;
+
+            x = real;
+            y = imaginary;
         }
     }
 
