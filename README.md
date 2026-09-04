@@ -34,7 +34,8 @@ This repository contains my **day-wise progress, Java programs, notes, and pract
 | 08  | Basic Maths in Java    | ✅ Done          | [View Code](./Day-08/BasicMaths.java) |
 | 09  | OOPs in Java (Theory And Basic)          | ✅ Done    | [View Code](./Day-09/) |
 | 10  | Classes & Objects in Java |✅ Done  | [View Code](./Day-10/) |
-| 11  | (Polymorphism,Getter & Setter,privatekeyword)  | 🚧 In Progress | [View Code](./Day-11/) |
+| 11  | (Polymorphism,Getter & Setter,privatekeyword)  | ✅ Done  | [View Code](./Day-11/) |
+| 12  | (Constructors)  | 🚧 In Progress | [View Code](./Day-12/) |
 
 > 📌 The tracker will be updated regularly as I progress through the series.
 
