@@ -35,7 +35,11 @@ This repository contains my **day-wise progress, Java programs, notes, and pract
 | 09  | OOPs in Java (Theory And Basic)          | ✅ Done    | [View Code](./Day-09/) |
 | 10  | Classes & Objects in Java |✅ Done  | [View Code](./Day-10/) |
 | 11  | (Polymorphism,Getter & Setter,privatekeyword)  | ✅ Done  | [View Code](./Day-11/) |
-| 12  | (Constructors)  | 🚧 In Progress | [View Code](./Day-12/) |
+| 12  | (Constructors)  | ✅ Done | [View Code](./Day-12/) |
+| 13  | Practice oops  | ✅ Done | [View Code](./Day-13/) |
+| 14  | Practice oops  | ✅ Done | [View Code](./Day-14/) |
+| 15  | Bit-Wise   | ✅ Done | [View Code](./Day-15/) |
+| 16  | Array problem  | ✅ Done | [View Code](./Day-16/) |
 
 > 📌 The tracker will be updated regularly as I progress through the series.
 
