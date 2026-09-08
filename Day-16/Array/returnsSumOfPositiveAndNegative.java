@@ -1,6 +1,6 @@
 public class ReturnsSumOfPositiveAndNegative {
 
-    static int[] sum(int[] arr) {
+    static int[] sum(int[] arr) { 
         int posSum = 0;
         int negSum = 0;
 
