@@ -1,7 +1,7 @@
 public class MaximumNumber {
 
     static int max(int[] arr) {
-        int size = arr.length;
+        int size = arr.length; 
         int max = arr[0];
 
         for (int i = 1; i < size; i++) {
