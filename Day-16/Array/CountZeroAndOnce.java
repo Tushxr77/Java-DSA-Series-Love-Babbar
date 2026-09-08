@@ -1,5 +1,5 @@
 public class CountZeroAndOnce {
-
+ 
     static int[] count(int[] arr) {
         int size = arr.length;
         int zeroCount = 0;
