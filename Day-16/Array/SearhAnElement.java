@@ -1,6 +1,6 @@
 public class SearchAnElement {
 
-    static boolean search(int[] arr, int target) {
+    static boolean search(int[] arr, int target) { 
         int size = arr.length;
 
         for (int i = 0; i < size; i++) {
