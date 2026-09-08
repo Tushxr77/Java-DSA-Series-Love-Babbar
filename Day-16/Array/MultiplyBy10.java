@@ -1,7 +1,7 @@
 public class MultiplyElementBy10 {
 
     static int[] multiplyBy10(int[] arr) {
-        int size = arr.length;
+        int size = arr.length; 
         int[] brr = new int[size]; // creating same size array
 
         for (int i = 0; i < size; i++) {
