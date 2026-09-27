@@ -40,6 +40,10 @@ This repository contains my **day-wise progress, Java programs, notes, and pract
 | 14  | Practice oops  | ✅ Done | [View Code](./Day-14/) |
 | 15  | Bit-Wise   | ✅ Done | [View Code](./Day-15/) |
 | 16  | Array problem  | ✅ Done | [View Code](./Day-16/) |
+| 17 | Java Collection Framework - ArrayList | ✅ Done | [View Code](./Day-17/) |
+| 18 | Priority Queue in Java | ✅ Done | [View Code](./Day-18/) |
+| 19 | Set in Java | ✅ Done | [View Code](./Day-19/) |
+| 20 | Map in Java | ✅ Done | [View Code](./Day-20/) |
 
 > 📌 The tracker will be updated regularly as I progress through the series.
 
