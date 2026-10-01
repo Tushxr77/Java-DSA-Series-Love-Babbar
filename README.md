@@ -152,12 +152,12 @@ Repeat 🔁
 
 **Started:** August 2026
 
-| Area            | Progress    |
-| :-------------- | :---------- |
-| Java            | 🔴 Starting |
-| DSA             | 🔴 Starting |
-| Problem Solving | 🔴 Starting |
-| Consistency     | 🟢 Building |
+| Area            | Progress       |
+| :-------------- | :------------- |
+| Java            | 🟢 Completed   |
+| DSA             | 🟢 In Progress |
+| Problem Solving | 🟢 In Progress |
+| Consistency     | 🟢 Building    |
 
 > This section will be updated throughout my journey.
 
