@@ -44,6 +44,8 @@ This repository contains my **day-wise progress, Java programs, notes, and pract
 | 18 | Priority Queue in Java | ✅ Done | [View Code](./Day-18/) |
 | 19 | Set in Java | ✅ Done | [View Code](./Day-19/) |
 | 20 | Map in Java | ✅ Done | [View Code](./Day-20/) |
+| 21  | Array Questions | ✅ Done | [View Code](./Day-21/) |
+| 22  | Array Questions & HashMap | ✅ Done | [View Code](./Day-22/) |
 
 > 📌 The tracker will be updated regularly as I progress through the series.
 
