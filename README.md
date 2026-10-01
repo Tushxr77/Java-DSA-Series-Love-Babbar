@@ -124,14 +124,14 @@ Repeat 🔁
 * [x] Functions
 * [x] Arrays
 * [x] Strings
-* [ ] OOP
-* [ ] Exception Handling
-* [ ] Collections
-* [ ] Advanced Java Concepts
+* [x] OOP
+* [x] Exception Handling
+* [x] Collections
+* [x] Advanced Java Concepts
 
 ### 🧠 Data Structures & Algorithms
 
-* [ ] Time & Space Complexity
+* [x] Time & Space Complexity
 * [ ] Arrays
 * [ ] Strings
 * [ ] Searching
