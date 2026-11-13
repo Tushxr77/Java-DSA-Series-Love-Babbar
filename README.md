@@ -15,7 +15,7 @@ This repository contains my **day-wise progress, Java programs, notes, and pract
 * 💻 Learn Data Structures & Algorithms
 * 🧩 Solve problems and practice regularly
 * 📝 Maintain organized notes and code
-* 🔥 Build a consistent daily coding habit
+* 🔥 Build a consistent daily coding habit 
 * 🚀 Prepare for coding interviews and placements
 
 ---
